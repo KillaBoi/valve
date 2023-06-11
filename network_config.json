@@ -1,5 +1,5 @@
 {
-  "revision": 1675467317,
+  "revision": 1686491169,
   "certs": [
     "Ii4IARIgSJbwDpn/07/GHiGMKio0Vh18VN3D/hKzQGh6n0Yx9qpFHfAYY00dMh91KT6tfJIvitz8MkB8abvDa50KdIaizx/eKZL26MQ5is+3Xbt8YN6k3FeSImzcPPWE84v77+8n0GbkZaBj+uPJHbXgxZQmjOy9HokH",
     "Ii4IARIgmuygThdRzmJo1WkALKHh+hstvCbTa06joAg603KCm4RFHfAYY00dMh91KT6tfJIvitz8MkBkR1T/xN6234O5xVdANVkvztOFOg4C2u5x4SirXUjSxOxBbso7JSh6f/HorajFsL2WT0r/7pVQ/I8InxhMvG0I",
@@ -325,7 +325,7 @@
     },
     "fix1": {
       "desc": "Fix 1",
-      "geo": [ 8.68, 50.12 ],
+      "geo": [ 37.42, 141.03 ],
       "groups": [
         "steam-global",
         "valve"
@@ -363,7 +363,7 @@
     },
     "fix2": {
       "desc": "Fix 2",
-      "geo": [ 8.68, 50.12 ],
+      "geo": [ 37.42, 141.04 ],
       "groups": [
         "steam-global",
         "valve"
